@@ -1,6 +1,6 @@
-# flutter_application_2
+# SUN APP PROJECT
 
-A new Flutter project.
+aplikasi donasi.
 
 ## Getting Started
 
